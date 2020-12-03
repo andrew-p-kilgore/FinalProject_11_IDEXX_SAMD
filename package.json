@@ -1,0 +1,27 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "The repository contains an ASP.&#8203;NET Core + Vue.js starter template. The template runs on ASP.NET Core 3.1 and is created by Vue CLI 4.0 with a new plugin based architecture allowing developers to interactively scaffold a new project with just a one command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDEXX-UTDesign/dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IDEXX-UTDesign/dashboard/issues"
+  },
+  "homepage": "https://github.com/IDEXX-UTDesign/dashboard#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chart.js": "^2.9.4",
+    "underscore": "^1.11.0",
+    "vue": "^2.6.12",
+    "vue-chartjs": "^3.5.1",
+    "vue-chartjs-typescript": "^3.3.3"
+  }
+}

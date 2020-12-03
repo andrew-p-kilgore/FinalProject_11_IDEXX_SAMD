@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kilgore\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kilgore\\.nuget\\packages"
+    ]
+  }
+}
